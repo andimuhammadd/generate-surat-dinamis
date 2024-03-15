@@ -1,0 +1,19 @@
+{
+    "name": "itpol/latihan_generate_surat",
+    "description": "how to use word template in php",
+    "license": "gpl",
+    "autoload": {
+        "psr-4": {
+            "Itpol\\LatihanGenerateSurat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Andi Aziz",
+            "email": "muhammadandiaziz111@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "^1.2"
+    }
+}
